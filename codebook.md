@@ -1,0 +1,2 @@
+# Code Book
+The created dataset contains 180 rows with 81 columns. The rows are 30 subjects performing 6 disticnt activities each (30*6=180). The columns are "subject", "activity" and 79 features. The features are the calculated means for the respecting subject performing the specific activity. The featurenames originate from the features.txt file, however "()" and "-" were removed and replaced to avoid R problems.
